@@ -1,10 +1,10 @@
 # 在线Markdown编辑器
 
-![封面图片](public/cover.png)
-
 一个基于Vue 3和Vite构建的现代化在线Markdown编辑器，支持实时预览、代码高亮、数学公式等功能。
 
 ## 🎯 功能特性
+
+![编辑器演示](public/demo.png)
 
 - ✅ 实时Markdown预览
 - ✅ 代码语法高亮
